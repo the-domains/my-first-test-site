@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[My first test site]]></title>
         <description><![CDATA[My first test site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/my-first-test-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 19:51:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 19:52:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/my-first-test-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8537d36-d095-4083-8b76-f49d11284a99.jpg">]]></description>
+            <link>https://thegrid.ai/my-first-test-site/8c861bc4-1efb-4064-a2d4-c54e675b3900/index.html</link>
+            <guid isPermaLink="false">8c861bc4-1efb-4064-a2d4-c54e675b3900</guid>
+            <pubDate>Wed, 09 Mar 2016 19:51:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is a post. I am not surew ht t orite, etc. etc.</p>]]></description>
-            <link>undefinedthis-is-a-post-i-am-not-surew-ht-t-orite-etc-etc/index.html</link>
+            <link>https://thegrid.ai/my-first-test-site/this-is-a-post-i-am-not-surew-ht-t-orite-etc-etc/index.html</link>
             <guid isPermaLink="false">577d7547-c4be-4897-81cc-d701d78b2eda</guid>
             <pubDate>Wed, 09 Mar 2016 19:51:25 GMT</pubDate>
         </item>
